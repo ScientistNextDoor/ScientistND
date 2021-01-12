@@ -1,5 +1,7 @@
 # Protocols
 
+The calls can be made with one or more scientists. If there are more than one, one of them is the moderator who is responsible for the call organisation and contact with the parents.  
+
 **Very First Call**
 
 By one of moderators:
