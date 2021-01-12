@@ -33,7 +33,7 @@ End:
 - Ask what was interesting and what they have learned?
 - Give things to try at home and tell you about
 - Ask them to think about something they don’t know and ask us next time
-- What would they like to talk about next time? Propose ideas.\
+- What would they like to talk about next time? Propose ideas.
 
 After:
 - Tidy up the blog, add any extra material discussed 
