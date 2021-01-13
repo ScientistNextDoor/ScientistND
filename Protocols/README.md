@@ -3,6 +3,8 @@
 The calls can be made with one or more scientists. If there are more than one, one of them acts as moderator who is responsible for the call organisation and contact with the parents. If there is only one scientist (as there will be in the majority of cases), that person will act as the moderator. 
 You can see examples of articles written prior to calls (normally quite short) on the *Articles* section of our website. Note that the articles also often include experimental details to help the families prepare. Risk assessment examples are in the Risk Assessments folder. Not every call requires an experiment, though it's great if you can have one!
 
+Submitted articles should be in a word processing format (not pdf). Risk assessments can be in pdf.
+
 *Initial Contact*
 - You will be placed in contact with a parent/guardian following confirmation of your DBS validity, and a good match is made
 - Following this, it is up to you to organise times and dates for calls
