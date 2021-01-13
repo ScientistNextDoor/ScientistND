@@ -1,7 +1,7 @@
 # Protocols
 
 The calls can be made with one or more scientists. If there are more than one, one of them acts as moderator who is responsible for the call organisation and contact with the parents. If there is only one scientist (as there will be in the majority of cases), that person will act as the moderator. 
-You can see examples of articles written prior to calls (normally quite short) on the *Articles* section of our website. Note that the articles also often include experimental details to help the families prepare. Risk assessment examples are in the Risk Assessments folder. Not every call requires an experiment, though it's great if you can have one!
+You can see examples of articles written prior to calls (normally quite short) on the *Articles* section of our website (https://www.scientist-next-door.org/). Note that the articles also often include experimental details to help the families prepare. Risk assessment examples are in the Risk Assessments folder. Not every call requires an experiment, though it's great if you can have one!
 
 Submitted articles should be in a word processing format (not pdf). Risk assessments can be in pdf.
 
@@ -20,8 +20,8 @@ Submitted articles should be in a word processing format (not pdf). Risk assessm
 
 **Preparation before a call:**
 - Find links to any material – video/photo/explanations/experiments
-- Put links into a plan, use old article posts on the website, or create a new one
-- If you do create something new, please send it along to us to upload onto the website
+- Write up links into a blogpost: use old article posts on the website, or create a new one
+- If you do create something new, please send it along to us to upload onto the website (so you can point to it in communication with parent)
 - Any experiments require a Risk Assessment (see Risk Assessment folder). Use the template if you need to create a new one, or use an old one if applicable
 - If you are designing a new experiment, please send us the Risk Assessment to upload
 - Send to risk assessment to parent, confirm that they are OK with the experiment, have materials/equipment
